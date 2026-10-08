@@ -1,0 +1,9 @@
+{
+  "name": "Senali & Umesh · Save the Date",
+  "short_name": "S & U",
+  "icons": [{ "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }],
+  "theme_color": "#5C1120",
+  "background_color": "#FAF6EE",
+  "display": "standalone",
+  "start_url": "./"
+}
