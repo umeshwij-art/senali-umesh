@@ -122,7 +122,7 @@ body:has(#opener:not([hidden])) { overflow: hidden; }
 .photo-2 {
   width: min(100%, 640px); margin: clamp(30px, 6vw, 56px) auto 0; aspect-ratio: 4 / 3.4;
   background-image: url('../img/photo-2.jpg'); background-repeat: no-repeat;
-  background-size: 190% auto; background-position: 54% 78%; background-color: var(--paper);
+  background-size: 185% auto; background-position: 49% 84%; background-color: var(--paper);
   -webkit-mask-image: linear-gradient(to bottom, transparent 0%, #000 20%, #000 86%, transparent 100%);
           mask-image: linear-gradient(to bottom, transparent 0%, #000 20%, #000 86%, transparent 100%);
 }
